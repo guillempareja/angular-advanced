@@ -1,0 +1,4 @@
+Generar realese GIT (V1.0.0):
+(abans fer commits)
+git tag -a V1.0.0 -m "X"
+git push --tags
