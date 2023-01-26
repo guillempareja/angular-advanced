@@ -1,0 +1,3 @@
+ng test
+ng test --code-coverage  //reporte de los test (cuantas lineas cubiertas por pruebas)
+para omitir una prueba poner una 'x' antes: xit(....) o xdescribre
